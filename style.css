@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}
+/* navigation style  */
+.navbar-collapse{
+    display: flex;
+    justify-content: flex-end;
+}
+/* hero section style  */
+.display-1{
+    text-align: center;
+    padding-top: 300px;
+    font-style:italic;
+    font-weight: bolder;
+}
+.display-3{
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
+/* .triangle {
+    width: 100vw;
+    height: 100vh;
+}
+.triangle::after {
+    content: 'EMIHLE CEBISA';
+    position: absolute;
+    border-top: 100vh solid lightblue;
+    border-right: 100vw solid salmon;
+} */
